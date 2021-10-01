@@ -9,8 +9,8 @@ Screenshot proof of Docker Installation
 <img width="619" alt="Screen Shot 2021-10-01 at 11 39 13 AM" src="https://user-images.githubusercontent.com/49081873/135653517-c8bd5553-739c-4dea-a3cd-c044e17d517d.png">
 
 ## Activity 2
-Screenshot proof of Updated Repo README.md 
-<img width="1031" alt="Screen Shot 2021-10-01 at 11 43 57 AM" src="https://user-images.githubusercontent.com/49081873/135653865-d238e904-457a-48f8-9752-d7846f7c96f1.png">
+Screenshot proof of Updated Repo README.md and the cloned education_pathway repo.
+<img width="992" alt="Screen Shot 2021-10-01 at 3 20 17 PM" src="https://user-images.githubusercontent.com/49081873/135675282-d10aebb7-2645-4d05-9c3a-47fd0ae070b4.png">
 
 ## Activity 3
 Screenshot of build log for command "docker build --network=host -t python-docker ."
